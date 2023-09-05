@@ -1,1 +1,1 @@
-# demo_repo_for_course
+# demo_repo_for_data_science_course
